@@ -154,3 +154,21 @@ Sabio.us, 100032, RESELLER, 96ed93aaa9795702
 openx.com, 540543195, RESELLER, 6a698e2ec38604c6
 
 Contextweb.com, 561849, RESELLER, 89ff185a4c4e857c
+
+applovin.com, fffb9dab05483e4f88d2dfe42c047aa6, DIRECT
+
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+
+indexexchange.com, 191086, RESELLER
+
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+
+pubnative.net, 1007170, RESELLER, d641df8625486a7b
+
+Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+
+indexexchange.com, 191086, RESELLER
